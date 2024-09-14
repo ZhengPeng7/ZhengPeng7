@@ -6,13 +6,13 @@
 ### My Accounts 🆔
 
 <a href="https://github.com/zhengpeng7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=TZRzWOsAAAAJ" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ZhengPeng7" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 
@@ -21,16 +21,16 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ZhengPeng7&show_icons=true&theme=purple" alt="ZhengPeng7" /> </p>
 
 <a href="https://github.com/ZhengPeng7/BiRefNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=BiRefNet&theme=purple&bg_color=0,AAA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=BiRefNet&theme=purple&bg_color=0,AAA" />
 </a>
 <a href="https://github.com/ZhengPeng7/GCoNet_plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=GCoNet_plus&theme=purple&bg_color=0,AAA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=GCoNet_plus&theme=purple&bg_color=0,AAA" />
 </a>
 <a href="https://github.com/ZhengPeng7/GLCNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=GLCNet&theme=purple&bg_color=0,AAA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=GLCNet&theme=purple&bg_color=0,AAA" />
 </a>
 <a href="https://github.com/ZhengPeng7/motion_magnification_learning-based">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=motion_magnification_learning-based&theme=purple&bg_color=0,AAA" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZhengPeng7&repo=motion_magnification_learning-based&theme=purple&bg_color=0,AAA" />
 </a>
 
 
@@ -43,7 +43,6 @@
 Please send an e-mail to [zhengpeng0108@gmail.com](zhengpeng0108@gmail.com). I tend to reply very quickly.
 
 ### Support Me ☕️
-I'm always willing to answer all questions ASAP (when I have time). If you want to give me some financial support, you can send some to my accounts below. Thanks.
 + PayPal: [paypal.me/zhengpeng7](https://www.paypal.com/paypalme/zhengpeng7).
 + Alipay: <img src="https://drive.google.com/thumbnail?id=189y8fwa_fp-O3OkvjXXUt0hUgdr4AH6_&sz" width="15px"/> (click).
 
