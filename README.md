@@ -40,7 +40,8 @@
 [CSIG学生会员分享论坛, 第三期](https://www.csig.org.cn/171/202402/51646.html) on Mar 31, 2023, mainly about [GCoNet+](https://github.com/ZhengPeng7/GCoNet_plus).
 
 ### Contact Me 📮
-Please send an e-mail to [zhengpeng0108@gmail.com](zhengpeng0108@gmail.com). I tend to reply very quickly.
++ Please send an e-mail to [zhengpeng0108@gmail.com](zhengpeng0108@gmail.com). I tend to reply very quickly.
++ Book a meeting with me: [calendly.com/zhengpeng0108/30min](https://calendly.com/zhengpeng0108/30min).
 
 ### Support Me ☕️
 + PayPal: [paypal.me/zhengpeng7](https://www.paypal.com/paypalme/zhengpeng7).
