@@ -11,6 +11,12 @@
 <a href="https://scholar.google.com/citations?user=TZRzWOsAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"/>
 </a>&nbsp;&nbsp;
+<a href="https://x.com/zhengpeng0108" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/ZP#3633" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5544BB?style=for-the-badge&logo=Discord&logoColor=white">
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ZhengPeng7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
