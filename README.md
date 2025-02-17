@@ -11,7 +11,7 @@
 <a href="https://scholar.google.com/citations?user=TZRzWOsAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white"/>
 </a>&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=TZRzWOsAAAAJ" target="_blank">
+<a href="https://huggingface.co/ZhengPeng7" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-ed8A09.svg?style=for-the-badge&logo=HuggingFace&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <a href="https://x.com/zhengpeng0108" target="_blank">
