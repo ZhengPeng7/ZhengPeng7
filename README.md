@@ -1,7 +1,7 @@
 ## Hi there 👋, this is Peng :)
 
 > [!note]
-> _**I'm about to go to the University of Trento to study for a Ph.D. position under the supervision of Prof. Nicu Sebe.**_
+> _**I'm about to go to the University of Trento to study for a doctorate under the supervision of Prof. Nicu Sebe.**_
 
 ### My Accounts 🆔
 
